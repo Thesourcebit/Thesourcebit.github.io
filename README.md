@@ -1,7 +1,7 @@
 
 
 
-#  ________________<a href="https://github.com/prashantmi/Androsploit"><p align="center">Androsploit</p></a> ________________
+# <a href="https://github.com/prashantmi/Androsploit"><p align="center">Androsploit</p></a>
 
 
 # About
@@ -36,7 +36,7 @@ what is Android-H. It a software based on ADB(Android Debug Bridge) with a minim
 
 
 
-#  ________________<a href="https://github.com/prashantmi/Android-H">"Android-H"</a> ________________
+#  <a href="https://github.com/prashantmi/Android-H"><p align="center">Android-H</p></a>
 
 
 
@@ -67,7 +67,7 @@ Android Hacker is a software based on ADB(Android Debug Bridge) and can compromi
 
 
 
-#  ________________<a href="https://github.com/prashantmi/Rar-Password-Cracker">"Rar-Password-Cracker"</a> ________________
+#  <a href="https://github.com/prashantmi/Rar-Password-Cracker"><p align="center">Rar-Password-Cracker</p></a>
 
 
 # About
@@ -81,7 +81,7 @@ It can be used to crack "Pin encryption" on .Rar files may work for .zip or any 
 * Rar-Password-Cracker current version is v1.0, You can download the latest release from <a href="https://github.com/prashantmi/Rar-Password-Cracker/releases/latest">"here"</a>
 
 
-#  ________________<a href="https://github.com/prashantmi/DeviceSensors">"DeviceSensors"</a> ________________
+#  <a href="https://github.com/prashantmi/DeviceSensors"><p align="center">DeviceSensors</p></a>
 
 
 # About
