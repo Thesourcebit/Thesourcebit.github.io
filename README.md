@@ -1,7 +1,7 @@
 
 
 
-# <a href="https://github.com/prashantmi/Androsploit"><p align="center">Androsploit</p></a>
+#  <center><a href="https://github.com/prashantmi/Androsploit">Androsploit</a>
 
 
 # About
