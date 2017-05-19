@@ -36,7 +36,7 @@ what is Android-H. It a software based on ADB(Android Debug Bridge) with a minim
 
 
 
-#  <a href="https://github.com/prashantmi/Android-H"><p align="center">Android-H</p></a>
+#  <center><a href="https://github.com/prashantmi/Android-H">Android-H</a>
 
 
 
@@ -67,7 +67,7 @@ Android Hacker is a software based on ADB(Android Debug Bridge) and can compromi
 
 
 
-#  <a href="https://github.com/prashantmi/Rar-Password-Cracker"><p align="center">Rar-Password-Cracker</p></a>
+#  <center><a href="https://github.com/prashantmi/Rar-Password-Cracker">Rar-Password-Cracker</a>
 
 
 # About
@@ -81,7 +81,7 @@ It can be used to crack "Pin encryption" on .Rar files may work for .zip or any 
 * Rar-Password-Cracker current version is v1.0, You can download the latest release from <a href="https://github.com/prashantmi/Rar-Password-Cracker/releases/latest">"here"</a>
 
 
-#  <a href="https://github.com/prashantmi/DeviceSensors"><p align="center">DeviceSensors</p></a>
+#  <center><a href="https://github.com/prashantmi/DeviceSensors">DeviceSensors</a>
 
 
 # About
@@ -101,7 +101,7 @@ Android Application shows name and count of all sensors available in the device 
 
 
 <html>
-<script type="text/javascript" src="https://platform.linkedin.com/badges/js/profile.js" async defer></script>
-<div class="LI-profile-badge"  data-version="v1" data-size="medium" data-locale="en_US" data-type="vertical" data-theme="dark" data-vanity="prashantmi"><a class="LI-simple-link" href='https://in.linkedin.com/in/prashantmi?trk=profile-badge'><p align="center">Prashant Mishra</p></a></div>
+<center><script type="text/javascript" src="https://platform.linkedin.com/badges/js/profile.js" async defer></script>
+<div class="LI-profile-badge"  data-version="v1" data-size="medium" data-locale="en_US" data-type="vertical" data-theme="dark" data-vanity="prashantmi"><a class="LI-simple-link" href='https://in.linkedin.com/in/prashantmi?trk=profile-badge'>Prashant Mishra</a></div>
 <html>
 <!-- <a href="https://www.linkedin.com/in/prashantmi/"><p align="center"><img src="https://docs.google.com/uc?export=&id=0B37RToy0GZgUZC1oV3lCeU1QTVE" /></p></a>  -->
