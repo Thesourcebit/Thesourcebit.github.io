@@ -1,7 +1,7 @@
 
 
 
-#  ________________Androsploit ________________
+#  ________________<a href="https://github.com/prashantmi/Androsploit">"Androsploit"</a> ________________
 
 
 # About
@@ -16,12 +16,15 @@ what is Android-H. It a software based on ADB(Android Debug Bridge) with a minim
 * In future build of this Application you may not need to Enable "Developer Option and USB debugging"
 
 # Help needed
-* If you know how to write a program in java you can help us take Androsploit on the next level by <a href="https://github.com/elprashant/Androsploit/issues">proposing improvements or reporting bugs</a>, if you want to contribute please feel free to ask for the source code/java files.
-* If you don't know how to code, still, you can help us by <a href="https://github.com/elprashant/Androsploit/issues">reporting bugs</a>. Please have a look at the <a href="https://github.com//elprashant/Androsploit/wiki/Bug-reporting-guidelines">Bug Reporting Guidelines</a> and the <a href="https://github.com//elprashant/Androsploit/wiki/Frequently-Asked-Questions-%28FAQ%29">FAQ document</a> beforehand. Make sure you do understand how the tool works before opening an issue.
+* If you know how to write a program in java you can help us take Androsploit on the next level by <a href="https://github.com/prashantmi/Androsploit/issues">proposing improvements or reporting bugs</a>, if you want to contribute please feel free to ask for the source code/java files.
+* If you don't know how to code, still, you can help us by <a href="https://github.com/prashantmi/Androsploit/issues">reporting bugs</a>. Please have a look at the <a href="https://github.com//prashantmi/Androsploit/wiki/Bug-reporting-guidelines">Bug Reporting Guidelines</a> and the <a href="https://github.com//prashantmi/Androsploit/wiki/Frequently-Asked-Questions-%28FAQ%29">FAQ document</a> beforehand. Make sure you do understand how the tool works before opening an issue.
 * Contact:- prashantmindia@gmail.com
 
 # License
-* Android-H is licensed under the GPL license. See [LICENSE](LICENSE) for more information.
+* Android-H is licensed under the GPL license. See <a href="https://github.com/prashantmi/Androsploit/blob/master/LICENSE">"LICENSE"</a> for more information.
+
+# Project Status, Realease And Download
+* You can download the latest release from <a https://github.com/prashantmi/Androsploit/releases/latest">"here"</a>, No realease yet.
 
 # Disclaimer
 * This application is issued only for knowledge purpose any actions or activities related to this application is solely your responsibility, the misuse of this application can result in criminal charges brought against the persons in question.
@@ -29,11 +32,11 @@ what is Android-H. It a software based on ADB(Android Debug Bridge) with a minim
    
 * Usage of Androsploit to compromise/exploit any device/emulator without prior mutual consistency can be considered as an illegal activity. It is  the final user's responsibility to obey all applicable local, state and federal laws. Authors/Developer assume no liability and are not responsible for any misuse or damage caused by this program.
    
-* If You Fully Understand And Except This Disclaimer Then Only <a href="https://codeload.github.com/elprashant/Androsploit/zip/master">"Clone or Download"<a/> The Repository Or CLOSE NOW!
+* If You Fully Understand And Except This Disclaimer Then Only <a href="https://codeload.github.com/prashantmi/Androsploit/zip/master">"Clone or Download"<a/> The Repository Or CLOSE NOW!
 
 
 
-#  ________________Android-H ________________
+#  ________________<a href="https://github.com/prashantmi/Android-H">"Android-H"</a> ________________
 
 
 
@@ -49,7 +52,10 @@ Android Hacker is a software based on ADB(Android Debug Bridge) and can compromi
 * If you don't know how to code, you can help me by proposing improvements or reporting bugs. Make sure you do understand how the tool works before opening an issue.
 
 # License
-* Android-H is licensed under the GPL license. See LICENSE for more information.
+* Android-H is licensed under the GPL license. See <a href="https://github.com/prashantmi/Android-H/blob/master/LICENSE">"LICENSE"</a> for more information.
+
+# Project Status, Realease And Download
+* Android-H's current version is v1.0, You can download the latest release from <a https://github.com/prashantmi/Android-H/releases/latest">"here"</a>
 
 # Disclaimer
 * This application is issued only for knowledge purpose any actions or activities related to this application/script is solely your responsibility, the misuse of this application/script can result in criminal charges brought against the persons in question.
@@ -61,7 +67,7 @@ Android Hacker is a software based on ADB(Android Debug Bridge) and can compromi
 
 
 
-#  ________________Rar-Password-Cracker ________________
+#  ________________<a href="https://github.com/prashantmi/Rar-Password-Cracker">"Rar-Password-Cracker"</a> ________________
 
 
 # About
@@ -69,18 +75,23 @@ It's A Batch Script To Crack RAR Encrypted Folders And Files
 It can be used to crack "Pin encryption" on .Rar files may work for .zip or any other encrypted compressed data
 
 # License
-* Android-H is licensed under the MIT license. See LICENSE for more information.
+* Android-H is licensed under the MIT license. See <a href="https://github.com/prashantmi/Rar-Password-Cracker/blob/master/LICENSE">"LICENSE"</a> for more information.
+
+# Project Status, Realease And Download
+* Rar-Password-Cracker current version is v1.0, You can download the latest release from <a https://github.com/prashantmi/Rar-Password-Cracker/releases/latest">"here"</a>
 
 
-
-#  ________________DeviceSensors ________________
+#  ________________<a href="https://github.com/prashantmi/DeviceSensors">"DeviceSensors"</a> ________________
 
 
 # About
 Android Application shows name and count of all sensors available in the device build for "Android 4.1(Jelly Bean) and above"
 
 # License
-* Android-H is licensed under the MIT license. See LICENSE for more information.
+* Android-H is licensed under the MIT license. See <a href="https://github.com/prashantmi/DeviceSensors/blob/master/LICENSE">"LICENSE"</a> for more information.
+
+# Project Status, Realease And Download
+* DeviceSensors's current version is v1.0, You can download the latest release from <a https://github.com/prashantmi/DeviceSensors/releases/latest">"here"</a>
 
 # Note
 * Do not make changes to package/binary unless you know how it works otherwise software won't work.
