@@ -24,7 +24,7 @@ what is Android-H. It a software based on ADB(Android Debug Bridge) with a minim
 * Android-H is licensed under the GPL license. See <a href="https://github.com/prashantmi/Androsploit/blob/master/LICENSE">"LICENSE"</a> for more information.
 
 # Project Status, Realease And Download
-* You can download the latest release from <a https://github.com/prashantmi/Androsploit/releases/latest">"here"</a>, No realease yet.
+* You can download the latest release from <a href="https://github.com/prashantmi/Androsploit/releases/latest">"here"</a>, No realease yet.
 
 # Disclaimer
 * This application is issued only for knowledge purpose any actions or activities related to this application is solely your responsibility, the misuse of this application can result in criminal charges brought against the persons in question.
@@ -55,7 +55,7 @@ Android Hacker is a software based on ADB(Android Debug Bridge) and can compromi
 * Android-H is licensed under the GPL license. See <a href="https://github.com/prashantmi/Android-H/blob/master/LICENSE">"LICENSE"</a> for more information.
 
 # Project Status, Realease And Download
-* Android-H's current version is v1.0, You can download the latest release from <a https://github.com/prashantmi/Android-H/releases/latest">"here"</a>
+* Android-H's current version is v1.0, You can download the latest release from <a href="https://github.com/prashantmi/Android-H/releases/latest">"here"</a>
 
 # Disclaimer
 * This application is issued only for knowledge purpose any actions or activities related to this application/script is solely your responsibility, the misuse of this application/script can result in criminal charges brought against the persons in question.
@@ -78,7 +78,7 @@ It can be used to crack "Pin encryption" on .Rar files may work for .zip or any 
 * Android-H is licensed under the MIT license. See <a href="https://github.com/prashantmi/Rar-Password-Cracker/blob/master/LICENSE">"LICENSE"</a> for more information.
 
 # Project Status, Realease And Download
-* Rar-Password-Cracker current version is v1.0, You can download the latest release from <a https://github.com/prashantmi/Rar-Password-Cracker/releases/latest">"here"</a>
+* Rar-Password-Cracker current version is v1.0, You can download the latest release from <a href="https://github.com/prashantmi/Rar-Password-Cracker/releases/latest">"here"</a>
 
 
 #  ________________<a href="https://github.com/prashantmi/DeviceSensors">"DeviceSensors"</a> ________________
@@ -91,7 +91,7 @@ Android Application shows name and count of all sensors available in the device 
 * Android-H is licensed under the MIT license. See <a href="https://github.com/prashantmi/DeviceSensors/blob/master/LICENSE">"LICENSE"</a> for more information.
 
 # Project Status, Realease And Download
-* DeviceSensors's current version is v1.0, You can download the latest release from <a https://github.com/prashantmi/DeviceSensors/releases/latest">"here"</a>
+* DeviceSensors's current version is v1.0, You can download the latest release from <a href=" https://github.com/prashantmi/DeviceSensors/releases/latest">"here"</a>
 
 # Note
 * Do not make changes to package/binary unless you know how it works otherwise software won't work.
