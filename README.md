@@ -25,7 +25,7 @@ what is Android-H. It a software based on ADB(Android Debug Bridge) with a minim
 
 # Disclaimer
 * This application is issued only for knowledge purpose any actions or activities related to this application is solely your responsibility, the misuse of this application can result in criminal charges brought against the persons in question.
-The author/developer will not be held responsible in the event any criminal charges be brought against any individuals misusing this application to break the law.
+* The author/developer will not be held responsible in the event any criminal charges be brought against any individuals misusing this application to break the law.
    
 * Usage of Androsploit to compromise/exploit any device/emulator without prior mutual consistency can be considered as an illegal activity. It is  the final user's responsibility to obey all applicable local, state and federal laws. Authors/Developer assume no liability and are not responsible for any misuse or damage caused by this program.
    
