@@ -1,4 +1,4 @@
-
+<head
 
 
 #  <center><a href="https://github.com/prashantmi/Androsploit">Androsploit</a>
@@ -23,12 +23,11 @@ what is Android-H. It a software based on ADB(Android Debug Bridge) with a minim
 # License
 * Android-H is licensed under the GPL license. See <a href="https://github.com/prashantmi/Androsploit/blob/master/LICENSE">"LICENSE"</a> for more information.
 
-# Project Status, Realease And Download
-* You can download the latest release from <a href="https://github.com/prashantmi/Androsploit/releases/latest">"here"</a>, No realease yet.
+# Project Status, Release And Download
+* You can download the latest release from <a href="https://github.com/prashantmi/Androsploit/releases/latest">"here"</a>, No release yet.
 
 # Disclaimer
-* This application is issued only for knowledge purpose any actions or activities related to this application is solely your responsibility, the misuse of this application can result in criminal charges brought against the persons in question.
-* The author/developer will not be held responsible in the event any criminal charges be brought against any individuals misusing this application to break the law.
+* This application is issued only for knowledge purpose any actions or activities related to this application is solely your responsibility, the misuse of this application can result in criminal charges brought against the persons in question.                 The author/developer will not be held responsible in the event any criminal charges be brought against any individuals misusing this application to break the law.
    
 * Usage of Androsploit to compromise/exploit any device/emulator without prior mutual consistency can be considered as an illegal activity. It is  the final user's responsibility to obey all applicable local, state and federal laws. Authors/Developer assume no liability and are not responsible for any misuse or damage caused by this program.
    
@@ -54,7 +53,7 @@ Android Hacker is a software based on ADB(Android Debug Bridge) and can compromi
 # License
 * Android-H is licensed under the GPL license. See <a href="https://github.com/prashantmi/Android-H/blob/master/LICENSE">"LICENSE"</a> for more information.
 
-# Project Status, Realease And Download
+# Project Status, Release And Download
 * Android-H's current version is v1.0, You can download the latest release from <a href="https://github.com/prashantmi/Android-H/releases/latest">"here"</a>
 
 # Disclaimer
@@ -77,7 +76,7 @@ It can be used to crack "Pin encryption" on .Rar files may work for .zip or any 
 # License
 * Android-H is licensed under the MIT license. See <a href="https://github.com/prashantmi/Rar-Password-Cracker/blob/master/LICENSE">"LICENSE"</a> for more information.
 
-# Project Status, Realease And Download
+# Project Status, Release And Download
 * Rar-Password-Cracker current version is v1.0, You can download the latest release from <a href="https://github.com/prashantmi/Rar-Password-Cracker/releases/latest">"here"</a>
 
 
@@ -90,7 +89,7 @@ Android Application shows name and count of all sensors available in the device 
 # License
 * Android-H is licensed under the MIT license. See <a href="https://github.com/prashantmi/DeviceSensors/blob/master/LICENSE">"LICENSE"</a> for more information.
 
-# Project Status, Realease And Download
+# Project Status, Release And Download
 * DeviceSensors's current version is v1.0, You can download the latest release from <a href=" https://github.com/prashantmi/DeviceSensors/releases/latest">"here"</a>
 
 # Note
