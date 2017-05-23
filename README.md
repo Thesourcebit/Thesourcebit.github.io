@@ -12,8 +12,8 @@
 
 
 # About
-Androsploit is a java application an upgrade to Android-H with material design GUI it can be used to interact, manage, or compromise any "Android Device/Emulator".
-what is Android-H. It a software based on ADB(Android Debug Bridge) with a minimal design and can compromise any "Android Device". 
+* Androsploit is a java application an upgrade to Android-H with material design GUI it can be used to interact, manage, or compromise any "Android Device/Emulator".
+* what is Android-H. It a software based on ADB(Android Debug Bridge) with a minimal design and can compromise any "Android Device". 
 
 # Note
 * Currently all the java files have been removed from the repository for some reason, still, you can check the layout and if you are entrusted please fell free to contact on Email:- prashantmindia@gmail.com
@@ -47,7 +47,7 @@ what is Android-H. It a software based on ADB(Android Debug Bridge) with a minim
 
 
 # About
-Android Hacker is a software based on ADB(Android Debug Bridge) and can compromise any "Android Device" 
+* Android Hacker is a software based on ADB(Android Debug Bridge) and can compromise any "Android Device" 
 
 # Requirements
 * To Use This Software You Need "Developer Option,USB debugging Enabled"
@@ -77,8 +77,8 @@ Android Hacker is a software based on ADB(Android Debug Bridge) and can compromi
 
 
 # About
-It's A Batch Script To Crack RAR Encrypted Folders And Files
-It can be used to crack "Pin encryption" on .Rar files may work for .zip or any other encrypted compressed data
+* It's A Batch Script To Crack RAR Encrypted Folders And Files
+* It can be used to crack "Pin encryption" on .Rar files may work for .zip or any other encrypted compressed data
 
 # License
 * Android-H is licensed under the MIT license. See <a href="https://github.com/prashantmi/Rar-Password-Cracker/blob/master/LICENSE">"LICENSE"</a> for more information.
@@ -91,7 +91,7 @@ It can be used to crack "Pin encryption" on .Rar files may work for .zip or any 
 
 
 # About
-Android Application shows name and count of all sensors available in the device build for "Android 4.1(Jelly Bean) and above"
+* Android Application shows name and count of all sensors available in the device build for "Android 4.1(Jelly Bean) and above"
 
 # License
 * Android-H is licensed under the MIT license. See <a href="https://github.com/prashantmi/DeviceSensors/blob/master/LICENSE">"LICENSE"</a> for more information.
