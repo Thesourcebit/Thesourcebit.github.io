@@ -134,10 +134,10 @@
 
 
 
-<html>
+<!-- <html>
 <center><script type="text/javascript" src="https://platform.linkedin.com/badges/js/profile.js" async defer></script>
 <div class="LI-profile-badge"  data-version="v1" data-size="medium" data-locale="en_US" data-type="vertical" data-theme="dark" data-vanity="prashantmi"><a class="LI-simple-link" href='https://in.linkedin.com/in/prashantmi?trk=profile-badge'>Prashant Mishra</a></div>
-<html>
+<html> -->
 
 <!-- <a href="https://www.linkedin.com/in/prashantmi/"><p align="center"><img src="https://docs.google.com/uc?export=&id=0B37RToy0GZgUZC1oV3lCeU1QTVE" /></p></a>  -->
 
