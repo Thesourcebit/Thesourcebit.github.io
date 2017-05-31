@@ -12,8 +12,34 @@
 
 
 # About
-* Androsploit is a java application an upgrade to Android-H with material design GUI it can be used to interact, manage, or compromise any "Android Device/Emulator".
+* Androsploit is a java application an upgrade to Android-H with material design GUI it can be used to interact, manage, or compromise any "Android Device/Emulator".<a href="https://docs.google.com/uc?export=&id=0B37RToy0GZgUYm1JZks1TWNmZzA">Presentation</a>
 * what is Android-H. It a software based on ADB(Android Debug Bridge) with a minimal design and can compromise any "Android Device". 
+
+# List Of Features
+# Nonrooted Device
+* Scan Connected Victims
+* Wired ,Wireless Connection
+* List Base Files And Directories
+* Upload Data To Victim’s Device
+* Extract Data From Victim’s Device
+* Application Manager
+* Spy On Victim’s Device Screen
+* Turn ON/Off Internet
+* Turn On/Off Wi-Fi 
+* Unlock Device
+* Make Call From Victim’s Device
+* Turn On/Off Flight Mode
+
+# Rooted Device
+* Open Lock Screen
+* Turn On Bluetooth
+* Turn Off Bluetooth
+* Injecting RAT Mode
+* Download Build Prop
+* Tweak Build Prop
+* Upload Build Prop
+* Changing Developer Defined Build Properties.
+
 
 # Note
 * Currently all the java files have been removed from the repository for some reason, still, you can check the layout and if you are entrusted please fell free to contact on Email:- prashantmindia@gmail.com
