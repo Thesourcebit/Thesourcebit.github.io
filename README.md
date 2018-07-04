@@ -1,10 +1,22 @@
 
 # Index
+* FaceReco
 * Androsploit
+* Quantum Entanglement Cryptography and Communication Report & PPT
 * Android-H
 * Rar Password Cracker
 * Device Sensors
 * Geo Tag Camera
+
+
+
+#  <center><a href="https://github.com/prashantmi/FaceReco">FaceReco</a>
+
+
+# About
+* Real Time Facial Recognition System For Security And Surveillance - B.Tech Final year project on realtime facial recognition system based on OpenCV with a modern GUI application compatible with all type of camera ip, web cam, usb camera.
+
+# <a href="https://drive.google.com/file/d/1hTtkypoISebB8sWUsrjHEwxprRs0Jlwz/view">Project Report</a>
 
 
 
@@ -70,8 +82,38 @@
 
 
 
-#  <center><a href="https://github.com/prashantmi/Android-H">Android-H</a>
+#  <center><a>Quantum Entanglement Cryptography and Communication</a>
 
+
+# About
+* Today communication is front and centre for everything. There are many ways you can connect
+and talk to one another: email, text, chat—the list goes on. And while there’s debate about the
+best way to communicate, one thing should be clear: No matter what channel you choose,
+security is of the utmost importance. For many of us, using some form of online communication
+to connect with our friends, family and co-workers has become habitual, convenient and second
+nature. People share a lot of information about themselves and speak their minds without
+considering the consequences of having the conversations and data end up in the hands of
+others, such as government officials, hackers, hosting servers etc. This includes anything from
+personal photos, sensitive data such as credit card numbers to confidential information about
+clients within work correspondence.
+The good news is it doesn’t need to be this way a new technology has been introduced through
+which end-to-end encryption can be achieved that is quantum entanglement. Quantum
+communication is a strange phenomenon, but one of the weirdest proposed forms of it is called
+counterfactual communication - a type of quantum communication where no particles travel
+between two recipients.
+Theoretical physicists have long proposed that such a form of communication would be
+possible, but now, for the first time, researchers have been able to experimentally achieve it
+transferring a black and white bitmap image from one location to another without sending any
+physical particles. In this seminar I have explained what is quantum entanglement:
+communication. 
+
+# <a href="https://drive.google.com/open?id=13S8-K5sgIj0z1CISx5wUNJ1zZR-BRx0F">Project Report</a>
+
+# <a href="https://drive.google.com/open?id=12CdL3elKu6NGM77kgTdQ5kipCpdrMXGj">Presentation</a>
+
+
+
+#  <center><a href="https://github.com/prashantmi/Android-H">Android-H</a>
 
 
 # About
